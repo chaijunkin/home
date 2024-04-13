@@ -14,7 +14,7 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 # enableGitInfo: true
-mainsections: ["posts", "papermod"]
+mainsections: ["blogs"]
 hasCJKLanguage: true
 
 minify:
@@ -37,9 +37,9 @@ menu:
       name: 🏠 Home
       url: /
       weight: 2
-    - identifier: posts
-      name: 📚 Posts
-      url: posts
+    - identifier: blogs
+      name: 📚 blogs
+      url: blogs
       weight: 3
     - identifier: tags
       name: 🧩 Tags
@@ -180,10 +180,10 @@ params:
     Content:
       Intro: I'm Jun Kin, and welcome to my *cloud*.
       About: I write about my work and life as an open source contributor/maintainer and an amateur
-      Action: If you're here for the first time, try my [featured posts](/categories/featured/) or learn more [about me](/about). Make sure to subscribe via [email](/subscribe) or [RSS](/index.xml) to get regular updates.
+      Action: If you're here for the first time, try my [featured blogs](/categories/featured/) or learn more [about me](/about). Make sure to subscribe via [email](/subscribe) or [RSS](/index.xml) to get regular updates.
 
     subscribeInfo:
-      Text: If you liked this post, check out my [featured posts](/categories/featured) or learn more [about me](/about).
+      Text: If you liked this post, check out my [featured blogs](/categories/featured) or learn more [about me](/about).
 
 
   socialIcons:
