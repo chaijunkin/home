@@ -103,10 +103,7 @@ languages:
           name: 🏠 Home
           url: /
           weight: 2
-        - identifier: about
-          name: 🙋🏻‍♂️ About Me
-          url: about
-          weight: 50
+
 outputs:
   home:
     - HTML
