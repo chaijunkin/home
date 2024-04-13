@@ -69,7 +69,7 @@ languages:
 
   zh:
     languageName: "Blogs"
-    weight: 1
+    weight: 2
     taxonomies:
       category: categories
       tag: tags
