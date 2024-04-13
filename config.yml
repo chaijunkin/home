@@ -137,7 +137,7 @@ params:
 
   homeInfoParams:
     Title: "Cloudjur"
-    Content: Hi! I'm Jun Kin, and welcome to my *cloud*.
+    Content: Hi! I'm Jun Kin, and welcome to my home *cloud*. Enjoy the content!
     
   socialIcons:
     - name: email
