@@ -6,4 +6,4 @@ aliases:
   - blogs
   - posts
 toc: true
----s
+---
