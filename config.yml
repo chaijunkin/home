@@ -29,7 +29,7 @@ defaultContentLanguageInSubdir: true
 
 languages:
   en:
-    languageName: "Profile"
+    languageName: "Switch to Profiles"
     weight: 1
     taxonomies:
       category: categories
@@ -68,7 +68,7 @@ languages:
           weight: 60
 
   zh:
-    languageName: "Blogs"
+    languageName: "Switch to Blogs"
     weight: 2
     taxonomies:
       category: categories
