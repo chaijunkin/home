@@ -21,8 +21,8 @@ minify:
   disableXML: true
   # minifyOutput: true
 
-permalinks:
-  blogs: "/:title/"
+# permalinks:
+#   blogs: "/:title/"
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
